@@ -1,0 +1,5 @@
+the website is deployed at:
+
+https://stubbyfunnymonke.github.io/physical-science-website-chemicals/
+
+however if it doesnt work, please open index.html instead
